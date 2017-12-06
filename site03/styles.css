@@ -1,0 +1,27 @@
+.container {
+    background-color: #555;
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column-reverse; /* look - direction & order changes */
+}
+
+.item { }
+
+.item1 {
+    background-color: red;
+    flex: 1;
+}
+.item2 {
+    background-color: blue;
+    flex: 2;
+}
+.item3 {
+    background-color: green;
+    flex: 1;
+}
+.item4 {
+    background-color: orange;
+    flex: 2;
+}

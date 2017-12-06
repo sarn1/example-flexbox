@@ -1,0 +1,35 @@
+.container {
+    background-color: #555;
+    max-width: 800px;
+    height: 400px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.item {
+    flex: 1;
+}
+
+.item1 {
+    background-color: red;
+    order: 4;
+}
+.item2 {
+    background-color: blue;
+    order: 2;
+}
+.item3 {
+    background-color: green;
+    order: 1;
+}
+.item4 {
+    background-color: orange;
+    order: 3;
+}
+
+@media (max-width: 600px) {
+    .item1 { order: 1; }
+    .item2 { order: 2; }
+    .item3 { order: 3; }
+    .item4 { order: 4; }
+}
