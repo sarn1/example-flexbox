@@ -1,0 +1,25 @@
+.container {
+    margin: 0 auto;
+    display: flex;
+    border: thin solid #000;
+    align-items: baseline;
+    width: 800px;
+}
+
+.item {
+    background-color: #999;
+    padding: 10px;
+    margin: 10px;
+    flex: 1;
+}
+
+.item1 {
+    padding-top:40px; /* remove to play */
+}
+.item2 {
+}
+.item3 {
+    padding-top:60px; /* remove to play */
+}
+.item4 {
+}

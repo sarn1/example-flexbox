@@ -1,0 +1,31 @@
+.container {
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row wrap;
+    border: thin solid #000;
+    align-content: center;
+    justify-content: space-around;
+    width: 800px;
+}
+
+.item {
+    background-color: #999;
+    padding: 10px;
+    margin: 10px;
+    width: 100px;
+}
+
+.item1 {
+}
+.item2 {
+}
+.item3 {
+    width: 400px;
+}
+.item4 {
+
+}
+
+.item5 {
+
+}
