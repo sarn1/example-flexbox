@@ -23,7 +23,7 @@ https://codepen.io/sarn1/pen/ZaNyxb
 .item3 { background-color: green; }
 .item4 { background-color: orange; }
 ```
-![alt text](image01.jpg)
+![alt text](https://github.com/sarn1/example-flexbox/blob/master/readme-images/image01.jpg)
 
 ```css
 .container {
@@ -41,7 +41,7 @@ https://codepen.io/sarn1/pen/ZaNyxb
 .item3 { background-color: green; }
 .item4 { background-color: orange; }
 ```
-![alt text](image02.jpg)
+![alt text](https://github.com/sarn1/example-flexbox/blob/master/readme-images/image02.jpg)
 
 ```css
 .container {
@@ -67,25 +67,25 @@ https://codepen.io/sarn1/pen/ZaNyxb
 .item3 { background-color: green; }
 .item4 { background-color: orange; }
 ```
-![alt text](image03.jpg)
+![alt text](https://github.com/sarn1/example-flexbox/blob/master/readme-images/image03.jpg)
 
 **site02**
 https://codepen.io/sarn1/pen/pdmwVo
 - flex
-![alt text](image04.jpg)
+![alt text](https://github.com/sarn1/example-flexbox/blob/master/readme-images/image04.jpg)
 
 **site03**
 https://codepen.io/sarn1/pen/OOYgwr
 - flex-direction
-![alt text](image05.jpg)
+![alt text](https://github.com/sarn1/example-flexbox/blob/master/readme-images/image05.jpg)
 
 **site04**
 https://codepen.io/sarn1/pen/QORgJL
 - order
-![alt text](image06.jpg)
+![alt text](https://github.com/sarn1/example-flexbox/blob/master/readme-images/image06.jpg)
 
 **site05**
-- xx
 https://codepen.io/sarn1/pen/pdmrzg
-![alt text](image07.jpg)
+- xx
+![alt text](https://github.com/sarn1/example-flexbox/blob/master/readme-images/image07.jpg)
 
