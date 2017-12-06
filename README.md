@@ -72,20 +72,24 @@ https://codepen.io/sarn1/pen/ZaNyxb
 **site02**
 https://codepen.io/sarn1/pen/pdmwVo
 - flex
+
 ![alt text](https://github.com/sarn1/example-flexbox/blob/master/readme-images/image04.jpg)
 
 **site03**
 https://codepen.io/sarn1/pen/OOYgwr
 - flex-direction
-![alt text](https://github.com/sarn1/example-flexbox/blob/master/readme-images/image05.jpg)
+
+![alt text](https://github.com/sarn1/example-flexbox/blob/master/readme-images/image05.JPG)
 
 **site04**
 https://codepen.io/sarn1/pen/QORgJL
 - order
-![alt text](https://github.com/sarn1/example-flexbox/blob/master/readme-images/image06.jpg)
+
+![alt text](https://github.com/sarn1/example-flexbox/blob/master/readme-images/image06.JPG)
 
 **site05**
 https://codepen.io/sarn1/pen/pdmrzg
 - xx
+
 ![alt text](https://github.com/sarn1/example-flexbox/blob/master/readme-images/image07.jpg)
 
