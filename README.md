@@ -1,9 +1,15 @@
 # example-flexbox
 #### Examples using Flexbox
-
-CSS Flexbox
 https://webdesign.tutsplus.com/courses/css-flexbox-essentials
- 
+
+**sample website**
+https://codepen.io/sarn1/pen/yPWKNr
+
+**thai flag**
+https://codepen.io/sarn1/pen/GOadma
+
+**Notes**
+- Vendor prefix - "autoprefixer" available for Brackets 
 - https://caniuse.com/#feat=flexbox
 
 **site01**
@@ -131,8 +137,4 @@ https://codepen.io/sarn1/pen/WXBMmy
 - `align-self`
 ![alt text](https://github.com/sarn1/example-flexbox/blob/master/readme-images/image13.jpg)
 
-**sample website**
-https://codepen.io/sarn1/pen/yPWKNr
 
-**Notes**
-- Vendor prefix - "autoprefixer" available for Brackets
