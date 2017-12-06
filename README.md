@@ -2,10 +2,10 @@
 #### Examples using Flexbox
 https://webdesign.tutsplus.com/courses/css-flexbox-essentials
 
-**sample website**
+**Sample Website**
 https://codepen.io/sarn1/pen/yPWKNr
 
-**thai flag**
+**Thai Flag**
 https://codepen.io/sarn1/pen/GOadma
 
 **Notes**
